@@ -12,7 +12,7 @@ https://handi-capped-care-tuwiq.herokuapp.com/
 
 ### Postman documentation
 https://documenter.getpostman.com/view/22759707/VUquKajy#f27ea3b6-48eb-4623-b150-18e0e2d5b97f
-###Prsentation 
+### Prsentation 
 https://github.com/salhaalasmari/presnatation.git
-###coding
+### coding
 https://github.com/salhaalasmari/HandicappedCare-code.git
